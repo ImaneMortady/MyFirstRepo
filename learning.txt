@@ -1,1 +1,2 @@
-I have learned how to clone repositories, create files, and use Git commands such as add, commit, and push. This is helping me understand how version control works.
+What I have learned from this course
+So far, I have learned how to clone repositories, create files, make commits, and push changes to GitHub. I also learned how to collaborate using branches and pull requests. This has helped me understand version control and teamwork in software projects.
